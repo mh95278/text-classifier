@@ -1,4 +1,5 @@
 #!usr/bin/perl
+#Author: Sarah Kellner, Michael Hochleitner
 use strict;
 use warnings;
 use utf8;
